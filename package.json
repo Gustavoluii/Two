@@ -1,1 +1,22 @@
-
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Two.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "opusscript": "0.0.6",
+    "random-puppy": "^1.1.0",
+    "simple-youtube-api": "^5.0.2",
+    "yt-search": "^0.1.4",
+    "ytdl-core": "^0.25.2"
+  }
+}
